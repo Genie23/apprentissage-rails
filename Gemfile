@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+source 'https://rubygems.org'
+gem 'sinatra', '1.1.0'
+gem 'thin'
+=======
 source 'http://rubygems.org'
 
 gem 'rails', '3.0.5'
@@ -29,3 +34,4 @@ gem 'sqlite3', '1.3.8', :require => 'sqlite3'
 # group :development, :test do
 #   gem 'webrat'
 # end
+>>>>>>> 4938c015efcb71a9cf988e3c2ab078b327d78eb3
